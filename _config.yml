@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiaqi Zhang / Jackie"
 title_separator          : "-"
 name                     : &name "Jiaqi Zhang"
-description              : &description "M.Sc. in Comp. Eng. @NUS | Looking for SDE/DA Intern in SG"
+description              : &description "M.Sc. in Comp. Eng. @NUS"
 url                      : https://jackie4zjq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jackie4zjq.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiaqi Zhang"
   avatar           : "profile.png"
-  bio              : "M.Sc. in Comp. Eng. @NUS | Looking for SDE/DA Intern in SG"
+  bio              : "M.Sc. in Comp. Eng. @NUS"
   location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    :
+  email            : "cn-jackie@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "jackiejiaqizhang"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
