@@ -54,3 +54,7 @@ Publications
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+/Users/jackie/PycharmProjects/jackie4zjq.github.io/files/Jiaqi_Zhang_CV.pdf
+
+[CV](https://jackie4zjq.github.io/files/Jiaqi_Zhang_CV.pdf)
+
