@@ -3,14 +3,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Projects"
-    url: /Projects/
+  - title: "Researches & Projects"
+    url: /researches-projects/
 
   - title: "Prototypes"
-    url: /Prototypes/
+#    url: /year-archive/
 
-#  - title: "Portfolio"
-#    url: /portfolio/
-#
   - title: "Blog Posts"
-    url: /year-archive/
+#    url: /year-archive/
