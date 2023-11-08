@@ -10,10 +10,13 @@ location: "City, Country"
 
 Developed an unsupervised image-to-image translation method based on the GAN framework designed to complete the image conversion task of face image processing. 
 
+* **Position:** Researcher
 * **Duration:** Sep, 2022 - Jul, 2023
 * **Supervisor:**  Asst. Prof. [Dr Changjae Oh](http://eecs.qmul.ac.uk/~coh/) 
-* Surveyed & published papers in the field of style transfer such as GAN, cycleGAN, UNIT & FUNIT. 
-* Optimized the network structure of FUNIT and applied it to the field of face image manipulation. 
+
+* **Main Contribution:**
+  * Surveyed & published papers in the field of style transfer such as GAN, cycleGAN, UNIT & FUNIT. 
+  * Optimized the network structure of FUNIT and applied it to the field of face image manipulation. 
 
 
 
