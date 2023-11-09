@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Telecomm. Eng. & Mgt. (Spec. Multimedia), Beijing University of Posts and Telecommunications, 2023
+* B.S. in Telecomm. Eng. & Mgt. (Spec. Multimedia), Beijing University of Posts and Telecommunications (BUPT, China) & Queen Marry University, London (QMUL, UK), 2023
+
 * M.Sc. in Comp. Eng. (Spec. MIA), National University of Singapore, 2024 (expected)
 
 Work experience
