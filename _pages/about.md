@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Computer Engineering Master’s student from the National University of Singapore (NUS), specialisation in **Machine 
-Intelligence and Applications** (MIA). I have experience in **Software Development** and **Data Analysis** . I am 
+Intelligence and Applications** (MIA). I have experience in **Software Development** and **Data Analysis**. I am 
 passionate about Machine Learning and Computer Vision. I am currently seeking an **internship** opportunity 
 that aligns with my experience and passion.
 

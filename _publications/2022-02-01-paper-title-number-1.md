@@ -10,3 +10,10 @@ citation: 'Ran, Weichen & Lian, Junhong & *Zhang, Jiaqi. (2022). Evaluation and 
 ---
 
 
+- Scatter plot and heat map of fungal water niche width and growth rate under ideal conditions.
+
+![image](https://www.tandfonline.com/cms/asset/d6ace1f4-defb-4835-b380-7356876de149/kbie_a_2025699_f0002_oc.jpg)
+
+- Nonlinear growth rate – moisture tolerance fitting model.
+
+![image](https://www.tandfonline.com/cms/asset/c3976e06-5a34-4b5c-890c-98efc9e917ae/kbie_a_2025699_f0003_oc.jpg)
