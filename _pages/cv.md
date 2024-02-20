@@ -61,5 +61,5 @@ Skills
 
 CV PDF
 ======
-You can view the .pdf version of my CV through the link: [Jiaqi Zhang CV](https://jackie4zjq.github.io/files/Jiaqi_Zhang_CV.pdf)
+You can view the .pdf version of my CV through the link: [Zhang_Jiaqi_intern.pdf](https://jackie4zjq.github.io/files/Zhang_Jiaqi_intern.pdf)
 
