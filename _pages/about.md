@@ -20,6 +20,10 @@ Education
 
 Work experience
 ======
+
+* **TikTok Inc. - Ads Infra:** _Software Dev. Intern_
+
+
 * **Alibaba Cloud Inc. – Edge Cloud Tech:** _Data Warehouse Intern_
 
 [//]: # (  * **Data Timeliness Governance:** Conducted a comprehensive inventory of the data timeliness and created a dashboard for )

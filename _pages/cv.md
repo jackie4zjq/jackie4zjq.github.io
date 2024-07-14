@@ -17,6 +17,22 @@ Education
 
 Work experience
 ======
+* **TikTok Inc. - Ads Infra:** _Software Dev. Intern_
+  * **Real-time Ads Tagging:** 
+  
+    By restructuring the tagging process, the tagging delay has been optimized from 5 hours to near real-time, providing more space for strategy and increasing overall ads consumption by x%.
+
+  * **Ads Shadow Reconstruction (In Progress):** 
+  
+    Utilizing the new autocreation services, the ads shadow(copy) function is being restructured to enhance system architecture rationality and load capacity.
+
+  * **System Stability Maintenance:** 
+  
+    Assisting in on-call troubleshooting for ads tagging and shadow services to improve system stability.
+
+  * Tech Stack Used: C++, Go, Redis read/write, SQL, Kafka, high concurrency, asynchronous read/write
+
+
 * **Alibaba Cloud Inc. – Edge Cloud Tech:** _Data Warehouse Intern_
   * **Data Timeliness Governance:** 
   
